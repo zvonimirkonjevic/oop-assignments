@@ -1,0 +1,12 @@
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/bin/Debug/net6.0/OOP_ZAD1_ClassLibrary.deps.json
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/bin/Debug/net6.0/OOP_ZAD1_ClassLibrary.dll
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/bin/Debug/net6.0/ref/OOP_ZAD1_ClassLibrary.dll
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/bin/Debug/net6.0/OOP_ZAD1_ClassLibrary.pdb
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/obj/Debug/net6.0/OOP_ZAD1_ClassLibrary.csproj.AssemblyReference.cache
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/obj/Debug/net6.0/OOP_ZAD1_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/obj/Debug/net6.0/OOP_ZAD1_ClassLibrary.AssemblyInfoInputs.cache
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/obj/Debug/net6.0/OOP_ZAD1_ClassLibrary.AssemblyInfo.cs
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/obj/Debug/net6.0/OOP_ZAD1_ClassLibrary.csproj.CoreCompileInputs.cache
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/obj/Debug/net6.0/OOP_ZAD1_ClassLibrary.dll
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/obj/Debug/net6.0/ref/OOP_ZAD1_ClassLibrary.dll
+/home/zvone/Desktop/OOP_ZAD1/OOP_ZAD1_ClassLibrary/obj/Debug/net6.0/OOP_ZAD1_ClassLibrary.pdb
