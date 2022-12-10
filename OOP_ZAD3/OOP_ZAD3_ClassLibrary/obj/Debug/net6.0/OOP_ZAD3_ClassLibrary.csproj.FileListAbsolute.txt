@@ -1,0 +1,12 @@
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/bin/Debug/net6.0/OOP_ZAD3_ClassLibrary.deps.json
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/bin/Debug/net6.0/OOP_ZAD3_ClassLibrary.dll
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/bin/Debug/net6.0/ref/OOP_ZAD3_ClassLibrary.dll
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/bin/Debug/net6.0/OOP_ZAD3_ClassLibrary.pdb
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/obj/Debug/net6.0/OOP_ZAD3_ClassLibrary.csproj.AssemblyReference.cache
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/obj/Debug/net6.0/OOP_ZAD3_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/obj/Debug/net6.0/OOP_ZAD3_ClassLibrary.AssemblyInfoInputs.cache
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/obj/Debug/net6.0/OOP_ZAD3_ClassLibrary.AssemblyInfo.cs
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/obj/Debug/net6.0/OOP_ZAD3_ClassLibrary.csproj.CoreCompileInputs.cache
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/obj/Debug/net6.0/OOP_ZAD3_ClassLibrary.dll
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/obj/Debug/net6.0/ref/OOP_ZAD3_ClassLibrary.dll
+/home/zvonimir/Desktop/faks/oop/dod-zad/OOP_ZAD3/OOP_ZAD3_ClassLibrary/obj/Debug/net6.0/OOP_ZAD3_ClassLibrary.pdb

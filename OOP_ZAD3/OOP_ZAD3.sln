@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_ZAD3_ClassLibrary", "OOP_ZAD3_ClassLibrary\OOP_ZAD3_ClassLibrary.csproj", "{F95D960A-1CC3-4D3C-B539-B2E9F39910C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_ZAD3_ConsoleApp", "OOP_ZAD3_ConsoleApp\OOP_ZAD3_ConsoleApp.csproj", "{8AAAA4F9-4AB2-415C-9E7D-724C9364E3EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F95D960A-1CC3-4D3C-B539-B2E9F39910C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95D960A-1CC3-4D3C-B539-B2E9F39910C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95D960A-1CC3-4D3C-B539-B2E9F39910C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95D960A-1CC3-4D3C-B539-B2E9F39910C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AAAA4F9-4AB2-415C-9E7D-724C9364E3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAAA4F9-4AB2-415C-9E7D-724C9364E3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAAA4F9-4AB2-415C-9E7D-724C9364E3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAAA4F9-4AB2-415C-9E7D-724C9364E3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

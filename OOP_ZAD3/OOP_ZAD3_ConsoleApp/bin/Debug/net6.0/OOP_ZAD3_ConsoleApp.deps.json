@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOP_ZAD3_ConsoleApp/1.0.0": {
+        "dependencies": {
+          "OOP_ZAD3_ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "OOP_ZAD3_ConsoleApp.dll": {}
+        }
+      },
+      "OOP_ZAD3_ClassLibrary/1.0.0": {
+        "runtime": {
+          "OOP_ZAD3_ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_ZAD3_ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP_ZAD3_ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
