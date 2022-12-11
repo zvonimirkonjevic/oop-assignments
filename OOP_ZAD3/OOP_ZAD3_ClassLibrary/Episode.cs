@@ -42,7 +42,7 @@ public class Episode
 
     public override string ToString()
     {
-        return $"{viewerCount},{scoreSum},{maxScore},{description.ToString()}";
+        return $"{viewerCount},{Math.Round(scoreSum,4)},{maxScore},{description.ToString()}";
     }
     public TimeSpan GetEpisodeDuration()
     {
