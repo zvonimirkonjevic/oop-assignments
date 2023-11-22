@@ -1,4 +1,4 @@
-# oop-ferit-zadace
-Repozitoriji za dodatne zadace iz OOP-a
+# oop-assignments
+A repository to house solutions from laboratory work for college course Object-oriented programming.
 
-Sve zadace su napravljene u JetBrains Rideru s .NET6 u C#
+All assigments were done in .NET6 in JetBrains Rider IDE
